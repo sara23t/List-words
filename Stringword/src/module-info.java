@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sarataha
+ *
+ */
+module Stringword {
+}
